@@ -75,11 +75,11 @@ The website is at the top of every page, and have a navigation menu for plots, c
 * A responsive navigation menu created by using media queries, and the background color will also change when it goes from large to small page.
 
 Large screen:
-![Navigation page large screen](Images/nav-lg.png)
+![Navigation page large screen](Images/nav-sm.png)
 
 Small screen:
 
-![Navigation page small screen](Images/nav-lg.png)
+![Navigation page small screen](Images/nav-sm.png)
 
 
 

@@ -76,7 +76,7 @@ The website is at the top of every page, and have a navigation menu for plots, c
 
 Large screen:
 
-![Navigation page large screen](Images/nav-sm.png)
+![Navigation page large screen](Images/nav-lg.png)
 
 
 

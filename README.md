@@ -16,7 +16,7 @@ In building this dashboard, I created individual pages for each plot and a means
 
 The website consist of 7 pages total, including:
 
-1. Landing page
+### 1. Landing page
   * Containing an explanation of the project.
   * Links to each visualizations page. There is a sidebar containing preview images of each plot, and clicking an image will take to that visualization.
  
@@ -30,7 +30,7 @@ Small screen:
 
 ![Landing page small screen](Images/landing-sm.png)
   
-2. Four visualization pages 
+### 2. Four visualization pages 
   * With a descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
@@ -43,7 +43,7 @@ Small screen:
 
 ![visualize page small screen](Images/visualize-sm.png)
 
-3. Comparisons page
+### 3. Comparisons page
   * Contains all of the visualizations on the same page so we can easily visually compare them.
   * I used a Bootstrap grid for the visualizations.
   * The grid has two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
@@ -56,7 +56,7 @@ Small screen:
 
 ![comparison page small screen](Images/comparison-sm.png)
                                    
-4. Data page
+### 4. Data page
   * In the data page I displayed a responsive table containing the data used in the visualizations.
     * The table is constructed by using a bootstrap table component.
     * The data come from exporting the `.csv` file as HTML.
@@ -79,7 +79,7 @@ Large screen:
 
 Small screen:
 
-![Navigation page small screen](Images/nav-lg.pn)
+![Navigation page small screen](Images/nav-lg.png)
 
 
 

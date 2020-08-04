@@ -72,7 +72,14 @@ The website is at the top of every page, and have a navigation menu for plots, c
 * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 * A dropdown menu created on the right of the navbar named "Plots" that provides a link to each individual visualization page.
 * Provided two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
-* A responsive navigation menu created by using media queries. It looks as follows ["Navigation Menu" section](#navigation-menu) (notice the background color change).
+* A responsive navigation menu created by using media queries, and the background color will also change when it goes from large to small page.
+
+Large screen:
+![data page large screen](/ermiasgelaye/Web-Design-Challenge/blob/master/Images/nav-lg.png)
+
+Small screen:
+
+![data page small screen](/ermiasgelaye/Web-Design-Challenge/raw/master/Images/nav-lg.pn)
 
 
 

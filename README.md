@@ -85,7 +85,3 @@ Small screen:
 ![Navigation page small screen](Images/nav-sm.png)
 
 
-
-### Copyright
-
-Trilogy Education Services © 2020. All Rights Reserved.
